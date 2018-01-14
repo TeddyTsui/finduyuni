@@ -1,0 +1,27 @@
+{
+  "name": "finduyuni_server",
+  "version": "1.0.0",
+  "description": "Server side for finduyuni. Provides room management, broadcast and storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeddyTsui/finduyuni.git"
+  },
+  "keywords": [
+    "travel",
+    "chat",
+    "cooperation"
+  ],
+  "author": [
+    "TeddyTsui",
+    "WheatBerry"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeddyTsui/finduyuni/issues"
+  },
+  "homepage": "https://github.com/TeddyTsui/finduyuni#readme"
+}
